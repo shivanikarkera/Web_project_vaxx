@@ -1,0 +1,15 @@
+frontend
+
+    ->>change the links of footer in all the pages the insta linkedln etd
+    change footer from classroom    
+
+    ->> insert quiz in home page
+
+    -> image carasoul(bootstrap maybe download)
+
+    
+backend   
+
+    ->contact us footer make it send mail to us and one sending the user thanking for suggestions or whatever
+
+    

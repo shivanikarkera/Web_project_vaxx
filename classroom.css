@@ -1,0 +1,46 @@
+#classroom_submit {
+    font-size: 20px;
+    letter-spacing: 2px;
+    padding: 25px;
+    color: var(--light-theme);
+    background-color: var(--dark-theme);
+    border-color: var(--border-color);
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 20px;
+}
+
+
+select {
+    padding: 10px;
+    border: grey solid 1px;
+}
+
+
+.thead-dark th {
+    color: var(--light-theme) !important;
+    background-color: var(--dark-theme) !important;
+    border-color: var(--dark-theme) !important;
+}
+
+table {
+    font-size: 18px !important;
+    box-shadow: 3.4px 6.9px 6.9px hsl(0deg 0% 0% / 0.39);
+}
+
+#center_inside_this {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    left: 108px;
+
+    flex-direction: column;
+    margin: 30px;
+}
+
+#piechart {
+    width: 100% !important;
+    height: 327px !important;
+}
